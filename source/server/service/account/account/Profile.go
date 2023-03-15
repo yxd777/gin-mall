@@ -1,10 +1,7 @@
-package account
+package serviceAccount
 
-import (
-	"github.com/gin-gonic/gin"
-	"net/http"
-)
+import "github.com/gin-gonic/gin"
 
 func Profile(c *gin.Context) {
-	c.String(http.StatusOK, "hello Profile")
+
 }

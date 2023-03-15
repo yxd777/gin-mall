@@ -1,4 +1,3 @@
-
-.idea/modules.xml
-.idea/gin-mall.iml
-.idea/vcs.xml
+.idea/
+*.dblwr
+docker/data/*
